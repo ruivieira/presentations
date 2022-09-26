@@ -28,7 +28,7 @@ _Presenter(s)_: Rui Vieira and Michael McCune
 
 ### Conferences
 
-- Devconf.cz 2019 [[Slides](collaborative_filtering_microservices_on_spark.pdf)]
+- Devconf.cz 2019 [[Slides](composable_microservices_for_streaming_analytics.pdf)]
 ---
 ## Building Streaming Recommendation Engines on Spark
 
