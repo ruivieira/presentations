@@ -22,6 +22,14 @@ _Presenter(s)_: Rui Vieira and Rebecca Whitworth
 
 ---
 
+## Composable Microservices for Streaming Analytics
+
+_Presenter(s)_: Rui Vieira and Michael McCune
+
+### Conferences
+
+- Devconf.cz 2019 [[Slides](collaborative_filtering_microservices_on_spark.pdf)]
+---
 ## Building Streaming Recommendation Engines on Spark
 
 _Presenter(s)_: Rui Vieira
